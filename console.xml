@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<settings>
+  <console>
+    <colors>
+      <!-- ir_black -->
+      <!-- Black          #4E4E4E 78:78:78-->
+      <!-- Blue           #96CBFE 150:203:254-->
+      <!-- Green          #A8FF60 168:255:96-->
+      <!-- Aqua           #C6C5FE 198:197:254-->
+      <!-- Red            #FF6C60 255:108:96-->
+      <!-- Purple         #FF73FD 255:115:253-->
+      <!-- Yellow         #FFFFB6 255:255:182-->
+      <!-- White          #EEEEEE 238:238:238-->
+      <!-- Gray           #7C7C7C 124:124:124-->
+      <!-- Light Blue     #B5DCFE 181:220:254-->
+      <!-- Light Green    #CEFFAB 206:254:171-->
+      <!-- Light Aqua     #DFDFFE 223:223:254-->
+      <!-- Light Red      #FFB6B0 255:182:176-->
+      <!-- Light Purple   #FF9CFE 255:156:254-->
+      <!-- Light Yellow   #FFFFCB 255:255:203-->
+      <!-- Bright White   #FFFFFF 255:255:255-->
+      <color id="0" r="0" g="0" b="0"/>
+      <color id="1" r="150" g="203" b="254"/>
+      <color id="2" r="168" g="255" b="96"/>
+      <color id="3" r="198" g="197" b="254"/>
+      <color id="4" r="255" g="108" b="96"/>
+      <color id="5" r="255" g="115" b="253"/>
+      <color id="6" r="255" g="255" b="182"/>
+      <color id="7" r="238" g="238" b="238"/>
+      <color id="8" r="124" g="124" b="124"/>
+      <color id="9" r="181" g="220" b="254"/>
+      <color id="10" r="206" g="254" b="171"/>
+      <color id="11" r="223" g="223" b="254"/>
+      <color id="12" r="255" g="182" b="176"/>
+      <color id="13" r="255" g="156" b="254"/>
+      <color id="14" r="255" g="255" b="203"/>
+      <color id="15" r="255" g="255" b="255"/>
+    </colors>
+  </console>
+</settings>
